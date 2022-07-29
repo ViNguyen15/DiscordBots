@@ -1,0 +1,18 @@
+
+### Sensitive Data ###
+src/main/resources/token.txt
+build/resources/main/token.txt
+
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+/build/
+/build/resources/main/
